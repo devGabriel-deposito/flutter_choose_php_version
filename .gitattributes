@@ -6,3 +6,11 @@
 *.cpp linguist-vendored
 *.cmake linguist-vendored
 *.txt linguist-vendored
+*.swift linguist-vendored
+*.xcodeproj linguist-vendored
+*.xcworkspace linguist-vendored
+*.storyboard linguist-vendored
+*.xib linguist-vendored
+*.plist linguist-vendored
+*.html linguist-vendored
+*.kt linguist-vendored
