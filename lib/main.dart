@@ -31,8 +31,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final String php8Path = "C:\\php\\php-8.2.9-nts-Win32-vs16-x64";
-  final String php7Path = "C:\\php\\php-7.3.33-nts-Win32-VC15-x64";
+  final String php8Path = "C:\\php\\php-8.3.4-nts-Win32-vs16-x64";
+  final String php7Path = "C:\\php\\php-7.4.32-nts-Win32-vc15-x64";
 
   String currentPhpVersion = "";
 
